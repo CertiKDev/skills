@@ -117,4 +117,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Built by [CertiK](https://www.certik.com) — the leading blockchain security firm, trusted to secure over $400B in digital assets.
+Built by [CertiK](https://www.certik.com) — the largest blockchain security auditor, trusted to secure over $600B in digital assets.
