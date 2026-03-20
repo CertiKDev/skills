@@ -20,9 +20,9 @@ This repository provides a collection of production-ready skills that connect AI
 
 | Skill | Description | Auth Required |
 |-------|-------------|:---:|
+| [**Skynet Score**](./skills/skynet-score/README.md) | Project-level security ratings and score breakdowns from CertiK Skynet | No |
 | [**SkyInsights**](./skills/skyinsights/README.md) | Address & transaction risk scoring, AML compliance screening, entity attribution | Yes |
 | [**Skylens**](./skills/skylens/README.md) | Deep EVM transaction investigation — execution traces, balance & state changes, source code | No |
-| [**Skynet Score**](./skills/skynet-score/README.md) | Project-level security ratings and score breakdowns from CertiK Skynet | No |
 | [**Token Scan**](./skills/token-scan/README.md) | Token contract security analysis — risk alerts, tax detection, holder concentration, LP locks | No |
 
 ---
